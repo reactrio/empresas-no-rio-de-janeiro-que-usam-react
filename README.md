@@ -1,4 +1,4 @@
-# Empresas que usam React no Brasil
+# Empresas que usam React no Rio de Janeiro
 
 Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
